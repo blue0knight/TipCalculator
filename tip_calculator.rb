@@ -1,3 +1,4 @@
+#Collaboration commit
 # first we get user inputs for our variables
 # and convert them to Floats (they'll initially be strings).
 
